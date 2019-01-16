@@ -1,5 +1,5 @@
 # minesweeper
-mine sweeper game writed in node.    
+mine sweeper game writen in nodeJS.    
 
 ![.](1.gif)
 ![..](2.gif)
